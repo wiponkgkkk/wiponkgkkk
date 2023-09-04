@@ -1,3 +1,7 @@
+# Oi, me chamo [William] 👋
+
+### Sobre mim
+
 🎓 Eu estudo [Python | HTML e CSS | Banco de Dados ] @ [Escola | Curso]
 
 👩‍💻 Atualmente eu estudo na escola técnica @ [Firjan Sesi Senai]
